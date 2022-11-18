@@ -8,3 +8,4 @@ public interface MyCountable {
      String toString();
      boolean equals(Object o);
 }
+
